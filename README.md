@@ -11,6 +11,6 @@ Exercício de HTML + CSS para criação de uma lista utilizando imagens
 ## Dificuldades no projeto
 - Deixar o projeto responsivo
 - Uso de divs 
-- Utilização de position
+- Uso da propridade position
 - Estilizar as classes no css
 - Criar bons nomes para as classes
