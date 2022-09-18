@@ -25,19 +25,19 @@ main{
     width: 100%;
 }
 
-.pinturas .pintura .info{
+.pinturas .pintura .infos{
     position: absolute;
     bottom: 40px;
     color: white;
     margin-left: 26px;
 
 }
-.pinturas .pintura .info .titulo{
+.pinturas .pintura .infos .titulo{
     font-size:30px ;
     font-weight: 700;
 
 }
-.pinturas .pintura .info .subtitulo{
+.pinturas .pintura .infos .subtitulo{
     font-size:17px ;
     font-weight: 300;
 }
